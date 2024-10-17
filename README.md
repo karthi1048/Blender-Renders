@@ -14,7 +14,14 @@ Each image represents a different project, while each video would be an animatio
 ## Explore the Renders
 Browse through the collection to see the diversity of creative styles and techniques I've explored. All images & videos are freely available to view or download.
 
-<img src="" alt="">
+<img src="/Plasma ball.jpg" alt="Plasma ball image">
+<br> 
+
+
+
+
+
+
 
 Feel free to provide feedback or suggestions on any of the images or videos. 
 
