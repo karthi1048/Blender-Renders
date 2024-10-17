@@ -7,12 +7,14 @@ Here you'll find good quality renderings in both PNG and JPEG formats, created u
 
 Each image represents a different project, while each video would be an animation related to the rendered image highlighting my experimentation with lighting, materials, and abstract design.
 
-## Explore the Renders
-Browse through the collection to see the diversity of creative styles and techniques I've explored. All images & videos are freely available to view or download.
-
 ## Render Engines
 - **Eevee**: Real-time render engine used for fast and efficient rendering with high-quality results.
 - **Cycles**: Path-tracing render engine known for realistic lighting and detailed effects.
+
+## Explore the Renders
+Browse through the collection to see the diversity of creative styles and techniques I've explored. All images & videos are freely available to view or download.
+
+<img src="" alt="">
 
 Feel free to provide feedback or suggestions on any of the images or videos. 
 
