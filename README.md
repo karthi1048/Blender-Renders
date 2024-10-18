@@ -27,6 +27,12 @@ Browse through the collection to see the diversity of creative styles and techni
 <img src="/Ice planet.png" alt=" ">
 <br>
 <img src="/Sunset.png" alt=" ">
+<br>
+<img src="/Box environment.png" alt=" ">
+<br>
+<img src="/Geo cude.png" alt=" ">
+<br>
+<img src="/Microscopic environment.png" alt=" ">
 <hr>
 
 Feel free to provide feedback or suggestions on any of the images or videos. 
