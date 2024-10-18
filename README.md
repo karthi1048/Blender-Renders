@@ -14,25 +14,25 @@ Each image represents a different project, while each video would be an animatio
 ## Explore the Renders
 Browse through the collection to see the diversity of creative styles and techniques I've explored. All images & videos are freely available to view or download.
 <hr>
-<img src="/Plasma ball.jpg" alt="Plasma ball image">
-<br> 
-<img src="/optical illiusion.jpg" alt="Gitlab logo from particles image">
-<br>
-<img src="/Abstract1.jpg" alt=" ">
-<br>
-<img src="/Abstract2.jpg" alt=" ">
-<br>
-<img src="/Aurora.jpg" alt=" ">
-<br>
-<img src="/Ice planet.png" alt=" ">
-<br>
-<img src="/Sunset.png" alt=" ">
-<br>
-<img src="/Box environment.png" alt=" ">
-<br>
-<img src="/Geo cude.png" alt=" ">
-<br>
-<img src="/Microscopic environment.png" alt=" ">
+<img src="/Plasma ball.jpg" alt="Plasma ball">
+<hr> 
+<img src="/optical illiusion.jpg" alt="Gitlab logo from particles">
+<hr>
+<img src="/Abstract1.jpg" alt=" Abstract neon looping sphere">
+<hr>
+<img src="/Abstract2.jpg" alt="Abstract lightning">
+<hr>
+<img src="/Aurora.jpg" alt="Aurora">
+<hr>
+<img src="/Ice planet.png" alt="Procedural ice planet">
+<hr>
+<img src="/Sunset.png" alt="Sunset environment">
+<hr>
+<img src="/Box environment.png" alt="Box environment">
+<hr>
+<img src="/Geo cude.png" alt="Geometry node based cubes">
+<hr>
+<img src="/Microscopic environment.png" alt="Microscopic environment">
 <hr>
 
 Feel free to provide feedback or suggestions on any of the images or videos. 
